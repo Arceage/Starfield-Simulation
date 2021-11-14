@@ -1,0 +1,10 @@
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\bin\Debug\StarfieldSimulation.exe.config
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\bin\Debug\StarfieldSimulation.exe
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\bin\Debug\StarfieldSimulation.pdb
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.Properties.Resources.resources
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.csproj.GenerateResource.cache
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.exe
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.pdb
+C:\Users\Arthur\source\repos\StarfieldSimulation\StarfieldSimulation\obj\Debug\StarfieldSimulation.Form1.resources
